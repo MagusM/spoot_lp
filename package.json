@@ -3,7 +3,9 @@
     "name": "startbootstrap-new-age",
     "version": "5.0.7",
     "scripts": {
-        "start": "node_modules/.bin/gulp watch"
+        "start": "node_modules/.bin/gulp watch",
+        "build": "node_modules/.bin/gulp build",
+        "vendor": "node_modules/.bin/gulp vendor"
     },
     "description": "A one page app landing page HTML theme for Bootstrap.",
     "keywords": [
